@@ -1,7 +1,15 @@
-
-# [MDPI] EGD: Error-Entropy-Guided Distillation for Noisy Multi-View Classification
+# [AAAI-25] Noisy Label Calibration for Multi-view Classification
 <p align="center">
-  🎆 Welcome to the repo of EGD! 🎆  
+  🎆 Welcome to the repo of NLC! 🎆  
+</p>
+<p align="center">
+  Paper Link: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/35485">Click Here</a>  
+</p>
+<p align="center">
+  If you find this work helpful, please support us with your stars⭐ and cite our paper!    
+</p>
+<p align="center">
+  This repo contains the official PyTorch implementation of NLC!      
 </p>
 
 ## 🔥 News
@@ -40,3 +48,6 @@ If you find this repo helpful, please consider citing this paper:<br>
 ## 📧 Contact
 If you have any questions, please feel free to contact the authors:<br>
 Shi-Lin Xu: xushilin990@gmail.com.
+
+
+
